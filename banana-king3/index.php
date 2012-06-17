@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title></title>
+        <title>障害対応Cに対する修正</title>
     </head>
     <body>
 本文です。
